@@ -23,7 +23,7 @@ To build a reliable and interpretable model that classifies individuals as **cre
 - Seaborn, Matplotlib  
 -Google Collabs
 
-## Author
+## 👨‍💻 Author
 
 --EMAN IQBAL
   -->emmnqb@gmail.com
